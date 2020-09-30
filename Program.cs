@@ -21,8 +21,7 @@ namespace areaofcircle
             //Road Trip
             Console.WriteLine("What is the MPG of your car?");
             double mpg = double.Parse(Console.ReadLine());
-            double gallons = circumference / mpg;
-            Console.WriteLine($"Your vehicle has a fuel efficency rate of {mpg}mpg ");
+
 
 
 
